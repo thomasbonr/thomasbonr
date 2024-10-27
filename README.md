@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**thomasbonr/thomasbonr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Thomas , a passionate engineering student with a keen interest in software development, home automation, and cybersecurity.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning:
+  - Advanced ROS for robotics applications
+
+
+- 👯 I’m looking to collaborate on:
+  - Open-source projects related to home automation
+  - Cybersecurity
+
+- 🤔 I’m looking for help with:
+  - Improving energy efficiency in home automation systems
+  - Gathering open data
+
+- 😄 Pronouns: He/Him
+
+
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbonr&show_icons=true&theme=radical)
